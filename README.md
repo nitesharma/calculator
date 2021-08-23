@@ -2,9 +2,10 @@
 
 A new Flutter project.
 
-##APk Screenshot
+## APk Screenshot
 
-![Screenshot_20210822-195341_calculator](https://user-images.githubusercontent.com/51874624/130485462-a5e0ded0-c2c0-4e78-beff-aa48040b2f37.png)
+![Screenshot_20210822-195341_calculator](https://user-images.githubusercontent.com/51874624/130486010-897f9a86-c5ca-4f17-9b2c-2d56d0e15696.jpg)
+
 
 
 ## Getting Started
